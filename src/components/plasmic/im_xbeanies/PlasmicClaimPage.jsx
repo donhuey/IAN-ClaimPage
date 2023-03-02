@@ -210,7 +210,7 @@ function PlasmicClaimPage__RenderFunc(props) {
                         placeholder={"ETH or ENS Address"}
                         size={1}
                         type={"text"}
-                        value={"ETH or ENS Address"}
+                        // value={"ETH or ENS Address"}
                       />
                     </div>
                   </div>
